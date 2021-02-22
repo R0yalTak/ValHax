@@ -15,4 +15,4 @@ Thanks to https://github.com/warbler/SharpMonoInjector/commits?author=warbler fo
         //P Adds stamina,might require spamming or holding
         //O Increases swim speed 
         
-For anyone errors sumbit an issue with phase # it failed on.
+For any errors sumbit an issue with phase # it failed on.
