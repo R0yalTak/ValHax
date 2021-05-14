@@ -4,12 +4,10 @@ Updated 2/25/2021
 
 All in one Mono-injected .dll.
 
-1.Open Valheim, and then valheimpackagedhack.exe.
+1.Open Valheim, and then RR.exe.
 
-2.Type "INJECT" in the console that opens.
+2.Select valheim under Pre-loaded and press inject.
 
-
-Thanks to https://github.com/warbler/SharpMonoInjector/commits?author=warbler for the injector code couldnt be possible without it.
 
         //Total Controls
         //~~~~~~~~~~~~~~
